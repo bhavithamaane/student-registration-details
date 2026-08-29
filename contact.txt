@@ -1,0 +1,13 @@
+Here’s a very small HTML code for Course Details:
+
+<!DOCTYPE html>
+<html>
+<head><title>Course Details</title></head>
+<body>
+  <h2>Course Details</h2>
+  <p><b>Course:</b> Web Development</p>
+  <p><b>Duration:</b> 3 Months</p>
+  <p><b>Fees:</b> ₹10,000</p>
+  <p><b>Mode:</b> Online</p>
+</body>
+</html>
