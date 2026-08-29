@@ -1,5 +1,3 @@
-Here’s a very small HTML code for Course Details:
-
 <!DOCTYPE html>
 <html>
 <head><title>Course Details</title></head>
